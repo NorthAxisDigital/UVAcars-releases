@@ -2,7 +2,7 @@
 
 The official desktop ACARS client for [UVA virtual airline](https://www.flyuva.org/).
 
-UVAcars is a SmartCARS-style flight tracker built for UVA's pilots. It connects to Microsoft Flight Simulator (2020 / 2024) and X-Plane 12, logs your flights in real time, and files them automatically to the UVA crew center when you land.
+UVAcars is a ACARS flight tracker built for UVA's pilots. It connects to Microsoft Flight Simulator (2020 / 2024) and X-Plane 12, logs your flights in real time, and files them automatically to the UVA crew center when you land.
 
 ## Download
 
@@ -19,7 +19,7 @@ Only active UVA pilots — you'll need a UVA crew center account to sign in. Not
 
 ## Reporting bugs
 
-Beta testers should post in the `#uvacars-beta` channel on the UVA Discord. Include:
+Beta testers should post in the `#uvacars-issues-feedback` channel on the UVA Discord. Include:
 
 - What you were doing when the bug hit
 - A screenshot if there's anything visual
